@@ -31,6 +31,12 @@ O dataset utilizado neste projeto foi construído a partir de imagens de satéli
 A região destacada em amarelo representa a área da qual as <em>features</em> foram extraídas.
 </p>
 
+### Assets para Extração no GEE
+
+Você pode extrair os dados com os assetes:
+
+🔗 [Download dos `Assets` necessários para a extração das *features* no Google Drive](https://drive.google.com/drive/folders/1oQES3NJtbOfpxzr2VFZt5F_V2xpTgkwV?usp=sharing)
+
 ### Arquivo `.npy` para Treinamento
 
 Você também pode carregar diretamente o arquivo `.npy` com dataset:
