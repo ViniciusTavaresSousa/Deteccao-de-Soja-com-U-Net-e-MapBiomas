@@ -46,7 +46,19 @@ Você também pode carregar diretamente o arquivo `.npy` com dataset:
 ## Resultados
 <p align="center"><strong>Resultados da detecção de áreas de soja</p>
 <div align="center">
-  <img src="Resultados/Resultados.png" width="600" alt="Resultados"/>
+  <img src="Resultados/Resultado 1.png" width="600" alt="Resultados"/>
+</div>
+
+<div align="center">
+  <img src="Resultados/Resultado 2.png" width="600" alt="Resultados"/>
+</div>
+
+<div align="center">
+  <img src="Resultados/Resultado 3.png" width="600" alt="Resultados"/>
+</div>
+
+<div align="center">
+  <img src="Resultados/Resultado 4.png" width="600" alt="Resultados"/>
 </div>
 
 ## Licença
