@@ -17,7 +17,7 @@ Este projeto apresenta o desenvolvimento de uma U-Net 3D para detecção e segme
 
 ## Dataset
 
-O dataset utilizado neste projeto foi construído a partir de imagens de satélite multitemporais e mapas de cobertura do solo do MapBiomas, armazenados em formato .npy com dimensões (N, 128, 128, 7, 5), onde N representa o número de amostras. Cada amostra contém sete canais espectrais — RGB (vermelho, verde e azul), infravermelho próximo (NIR), NDVI, NDWI e a máscara de soja — distribuídos em cinco meses consecutivos (outubro, novembro, dezembro, janeiro e fevereiro), correspondentes à safra 2021. As imagens foram coletadas para os estados do Rio Grande do Sul e Paraná, que, entre os quatro maiores produtores de soja do Brasil, foram os únicos com dados disponíveis após a aplicação de um filtro rigoroso de cobertura de nuvens igual a 1%.
+O dataset utilizado neste projeto foi construído a partir de imagens de satélite multitemporais e mapas de cobertura do solo do MapBiomas, armazenados em formato .npy com dimensões (N, 128, 128, 7, 5), onde N representa o número de amostras. Cada amostra contém sete canais espectrais, RGB (vermelho, verde e azul), infravermelho próximo (NIR), NDVI, NDWI e a máscara de soja, distribuídos em cinco meses consecutivos (outubro, novembro, dezembro, janeiro e fevereiro), correspondentes à safra 2021. As imagens foram coletadas para os estados do Rio Grande do Sul e Paraná, que, entre os quatro maiores produtores de soja do Brasil, foram os únicos com dados disponíveis após a aplicação de um filtro rigoroso de cobertura de nuvens igual a 1%.
 
 ### Extração das *Features*
 
