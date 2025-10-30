@@ -38,9 +38,9 @@ Você também pode carregar diretamente o arquivo `.npy` com dataset:
 🔗 [Download do dataset `dataset.npy` no Google Drive](https://drive.google.com/file/d/1ZTY4oiZTJBYCCkL-T12e3YQHeJavtbkP/view?usp=sharing)
 
 ## Resultados
-<p align="center"><strong>Resultado da detecção da soja</p>
+<p align="center"><strong>Resultados da detecção de áreas de soja</p>
 <div align="center">
-  <img src="Resultados/Resultados.png" width="600" alt="Resultads"/>
+  <img src="Resultados/Resultados.png" width="600" alt="Resultados"/>
 </div>
 
 ## Licença
