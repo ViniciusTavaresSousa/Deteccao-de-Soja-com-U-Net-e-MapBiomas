@@ -23,7 +23,7 @@ O dataset utilizado neste projeto foi construído a partir de imagens de satéli
 
 <p align="center"><strong>Extração das <em>features</em></p>
 <div align="center">
-  <img src="Extração das Features/extracao_features.png" width="600" alt="Extração das <em>features</em>"/>
+  <img src="Extração das Features/extracao_features.png" width="600" alt="Extração das features"/>
 </div>
 
 <p align="left">
