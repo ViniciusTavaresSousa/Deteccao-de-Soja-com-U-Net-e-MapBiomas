@@ -33,7 +33,7 @@ A região destacada em amarelo representa a área da qual as <em>features</em> f
 
 ### Assets para Extração no GEE
 
-Você pode extrair os dados com os assetes:
+Você pode extrair os dados com os assets:
 
 🔗 [Download dos `Assets` necessários para a extração das *features* no Google Drive](https://drive.google.com/drive/folders/1oQES3NJtbOfpxzr2VFZt5F_V2xpTgkwV?usp=sharing)
 
