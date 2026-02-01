@@ -41,7 +41,7 @@ Você pode extrair os dados com os assets:
 
 Você também pode carregar diretamente o arquivo `.npy` com dataset:
 
-🔗 [Download do dataset `dataset.npy` no Google Drive](https://drive.google.com/file/d/1ZTY4oiZTJBYCCkL-T12e3YQHeJavtbkP/view?usp=sharing)
+🔗 [Download do dataset `dataset.npy` no Google Drive](https://drive.google.com/file/d/1uUSVujgXbUXdcUT4O0nBBT_Rzze1rYt1/view?usp=sharing)
 
 ## Resultados
 <p align="center"><strong>Resultados da detecção de áreas de soja</p>
