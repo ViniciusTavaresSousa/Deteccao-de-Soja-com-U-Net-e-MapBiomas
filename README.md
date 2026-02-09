@@ -17,7 +17,7 @@ Este projeto apresenta o desenvolvimento de uma U-Net 3D para detecção e segme
 
 ## Dataset
 
-O dataset utilizado neste projeto foi construído a partir de imagens de satélite multitemporais e mapas de cobertura do solo do MapBiomas, armazenados em formato .npy com dimensões (N, 128, 128, 7, 5), onde N representa o número de amostras. Cada amostra contém sete canais espectrais, RGB (vermelho, verde e azul), infravermelho próximo (NIR), NDVI, NDWI e a máscara de soja, distribuídos em cinco meses consecutivos (outubro, novembro, dezembro, janeiro e fevereiro), correspondentes às safras de 2019, 2020, 2021, 2022 e 2023. As imagens foram coletadas para os estados do Rio Grande do Sul e Paraná, que, entre os quatro maiores produtores de soja do Brasil, foram os únicos com dados disponíveis após a aplicação de um filtro rigoroso de cobertura de nuvens igual a 1%.
+O dataset utilizado neste projeto foi construído a partir de imagens de satélite multitemporais e mapas de cobertura do solo do MapBiomas, armazenados em formato .npy com dimensões (N, 5, 128, 128, 7), onde N representa o número de amostras. Cada amostra contém sete canais espectrais, RGB (vermelho, verde e azul), infravermelho próximo (NIR), NDVI, NDWI e a máscara de soja, distribuídos em três meses consecutivos (outubro, novembro, dezembro), correspondentes às safras de 2019, 2020, 2021, 2022 e 2023. As imagens foram coletadas para os estados do Rio Grande do Sul e Paraná, que, entre os quatro maiores produtores de soja do Brasil, foram os únicos com dados disponíveis após a aplicação de um filtro rigoroso de cobertura de nuvens igual a 1%.
 
 ### Extração das *Features*
 
@@ -41,7 +41,7 @@ Você pode extrair os dados com os assets:
 
 Você também pode carregar diretamente o arquivo `.npy` com dataset:
 
-🔗 [Download do dataset `dataset.npy` no Google Drive](https://drive.google.com/file/d/1uUSVujgXbUXdcUT4O0nBBT_Rzze1rYt1/view?usp=sharing)
+🔗 [Download do dataset `dataset.npy` no Google Drive](https://drive.google.com/file/d/1jVKLZim6tAFrUcveS8WnHCs8H6RsETgt/view?usp=sharing)
 
 ## Resultados
 <p align="center"><strong>Resultados da detecção de áreas de soja</p>
